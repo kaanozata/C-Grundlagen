@@ -1,5 +1,3 @@
-# dap1-exercises
-DAP1 - C Übungen
 Dieses Repository enthält einfache Übungen aus der Vorlesung DAP1 (Datenstrukturen, Algorithmen und Programmierung).
 
 Enthaltene Dateien
